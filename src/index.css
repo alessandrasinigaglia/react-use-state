@@ -1,0 +1,32 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* GENERAL */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.accordion {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.accordion-title {
+  background-color: #fdd835;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
