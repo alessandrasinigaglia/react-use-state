@@ -23,7 +23,7 @@
 }
 
 .accordion-title {
-  background-color: #fdd835;
+  background-color: darkcyan;
   display: flex;
   justify-content: space-between;
   align-items: center;
